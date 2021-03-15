@@ -1,0 +1,1 @@
+web: ./web/server.exe

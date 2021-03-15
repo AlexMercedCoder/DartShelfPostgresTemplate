@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["shelf_router|lib/shelf_router.dart","shelf|lib/shelf.dart","shelfpeople|web/cors.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

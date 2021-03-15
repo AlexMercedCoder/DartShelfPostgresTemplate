@@ -1,0 +1,4 @@
+/bin
+server.exe
+.env
+env.g.dart

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["shelf|lib/shelf_io.dart","shelfpeople|web/controllers/HomeController.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io"],"hasMain":true}
