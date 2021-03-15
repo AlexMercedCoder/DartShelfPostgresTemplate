@@ -3,11 +3,11 @@
 
 ## Cloning the Template
 
-`git clone https://github.com/AlexMercedCoder/DartShelfTemplateMerced.git projectName`
+`git clone https://github.com/AlexMercedCoder/DartShelfPostgresTemplate.git projectName`
 
 or if you have NPM
 
-`npx degit AlexMercedCoder/DartShelfTemplateMerced#main projectName`
+`npx degit AlexMercedCoder/DartShelfPostgresTemplate#main projectName`
 
 ## Folder Structure
 
