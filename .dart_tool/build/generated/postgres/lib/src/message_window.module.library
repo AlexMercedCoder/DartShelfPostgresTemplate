@@ -1,1 +1,0 @@
-{"isEntrypoint":false,"deps":["buffer|lib/buffer.dart","postgres|lib/src/server_messages.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection","typed_data"],"hasMain":false}

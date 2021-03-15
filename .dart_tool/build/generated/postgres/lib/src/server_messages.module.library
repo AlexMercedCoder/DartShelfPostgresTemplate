@@ -1,1 +1,0 @@
-{"isEntrypoint":false,"deps":["buffer|lib/buffer.dart","postgres|lib/src/connection.dart","postgres|lib/src/query.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","typed_data"],"hasMain":false}

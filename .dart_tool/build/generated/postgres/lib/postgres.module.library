@@ -1,1 +1,0 @@
-{"isEntrypoint":true,"deps":["postgres|lib/src/connection.dart","postgres|lib/src/execution_context.dart","postgres|lib/src/substituter.dart","postgres|lib/src/types.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

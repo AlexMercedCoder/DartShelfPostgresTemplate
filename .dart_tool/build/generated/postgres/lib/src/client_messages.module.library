@@ -1,1 +1,0 @@
-{"isEntrypoint":false,"deps":["buffer|lib/buffer.dart","crypto|lib/crypto.dart","postgres|lib/src/constants.dart","postgres|lib/src/query.dart","postgres|lib/src/utf8_backed_string.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["typed_data"],"hasMain":false}

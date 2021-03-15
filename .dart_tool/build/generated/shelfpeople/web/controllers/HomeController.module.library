@@ -1,1 +1,0 @@
-{"isEntrypoint":false,"deps":["shelf_router|lib/shelf_router.dart","shelf|lib/shelf.dart","shelf|lib/shelf_io.dart","shelfpeople|web/controllers/TestController.dart","shelfpeople|web/cors.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

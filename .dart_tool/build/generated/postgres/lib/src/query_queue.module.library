@@ -1,1 +1,0 @@
-{"isEntrypoint":false,"deps":["postgres|lib/postgres.dart","postgres|lib/src/query.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","collection"],"hasMain":false}
