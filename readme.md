@@ -36,6 +36,34 @@ or if you have NPM
 
 - API Deployed!!
 
+#### Heroku Database Setup
+
+#### Setting Up The Database
+
+- head to the heroku dashboard for your project
+
+- go to the resources tab
+
+- provision a free heroku postgres database
+
+- go the database dashboard, under settings you'll find the database credentials
+
+- use those credentials to add the following heroku config vars
+
+```
+DB_HOST
+DB_PORT
+DB_DATABASE
+DB_USERNAME
+DB_PASSWORD
+```
+
+- you'll see a command like this that will let us access the psql shell for the database so we can create our table. `heroku pg:psql postgresql-objective-XXXX --app projectname`
+
+- create your tables
+
+- in connection.dart add useSSL in the list of arguments `this.conn = PostgreSQLConnection(host, port, database, username: username, password: password, useSSL: true);` and push your code again your api will be deployed!
+
 
 ## DATABASE CONNECTION
 
