@@ -19,7 +19,7 @@ class DB {
       database,
       username: username,
       password: password,
-      useSSL: false,
+      useSSL: true,
     );
   }
 }
