@@ -6,7 +6,7 @@ class SampleModel {
 
   SampleModel({
     required this.conn,
-    this.table = "test",
+    this.table = "accounts",
   });
 
   Future<List<Map<String, dynamic>>> destroy({required int id}) async {

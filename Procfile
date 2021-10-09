@@ -1,1 +1,1 @@
-web: ./lib/server.exe
+web: ./web/server.exe
