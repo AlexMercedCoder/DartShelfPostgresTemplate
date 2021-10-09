@@ -26,7 +26,7 @@ or if you have NPM
 
 - `heroku create projectName`
 
-- `heroku config:set DART_SDK_URL=https://storage.googleapis.com/dart-archive/channels/stable/release/2.12.1/sdk/dartsdk-linux-x64-release.zip`
+- `heroku config:set DART_SDK_URL=https://storage.googleapis.com/dart-archive/channels/stable/release/2.14.3/sdk/dartsdk-linux-x64-release.zip`
 
 - `heroku config:add BUILDPACK_URL=https://github.com/igrigorik/heroku-buildpack-dart.git`
 
