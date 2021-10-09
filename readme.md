@@ -30,7 +30,7 @@ or if you have NPM
 
 - `heroku config:add BUILDPACK_URL=https://github.com/igrigorik/heroku-buildpack-dart.git`
 
-- `heroku config:set DART_BUILD_CMD="./dart-sdk/bin/dart compile exe web/server.dart"`
+- `heroku config:set DART_BUILD_CMD="./dart-sdk/bin/dart compile exe lib/server.dart"`
 
 - `git push heroku master`
 
