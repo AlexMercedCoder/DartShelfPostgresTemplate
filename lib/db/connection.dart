@@ -19,8 +19,8 @@ class DB {
       database,
       username: username,
       password: password,
-      // useSSL: true, //for production
-      useSSL: false, //for local development
+      useSSL: true, //for production
+      //useSSL: false, //for local development
     );
   }
 }

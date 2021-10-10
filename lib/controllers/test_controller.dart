@@ -20,6 +20,8 @@ class TestController {
       final test = await model();
       final results = await test.getAll();
       print(results);
+      // call close on the model, otherwise creates a memory leak.
+      await test.conn.close();
       return Response.ok(jsonEncode(results), headers: cors);
     });
 
